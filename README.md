@@ -7,7 +7,7 @@ Desenvolvendo junto com *Diego Fernades* CTO @Rocketseat.
     * NodeJS
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](License.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## Autor
 
