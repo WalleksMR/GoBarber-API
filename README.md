@@ -1,5 +1,12 @@
 # Backend GoBaber
 
+### Instalação
+Ultilizando __NPM__ use `npm install` - __YARN__ use `yarn install`
+
+  ### Inicialização
+  __No seu terminal__
+    * npm run dev
+    * Yarn dev
 ### BootCamp
 Desenvolvendo junto com *Diego Fernades* CTO @Rocketseat.
 
